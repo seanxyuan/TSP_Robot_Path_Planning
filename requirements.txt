@@ -1,0 +1,10 @@
+numpy
+networkx
+ez-setup==0.9
+google-apputils==0.4.2
+ortools==1.3853
+protobuf==2.6.1
+python-dateutil==2.5.3
+python-gflags==3.0.5
+pytz==2016.4
+six==1.10.0
